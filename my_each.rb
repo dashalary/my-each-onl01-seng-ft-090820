@@ -4,3 +4,4 @@ while i < array.length
 
 { |i| puts array.length[i] }
 end
+end
